@@ -33,13 +33,17 @@
 ## 💼 Projects 💼
 
 <!-- Project 1 -->
-<table align="center">
+<table width="50%" align="center">
 <tr>
-<td align="center" valign="top" width="100%">
+<td align="center">
+
+<table width="60%" align="center">
+<tr>
+<td align="center" valign="top">
 
 <a href="https://github.com/GoodSpace-Kr/Teaming-FrontEnd" target="_blank">
   <img src="./TeamingLogo.jpg"
-       width="80%"
+       width="100%"
        style="border-radius:16px; box-shadow:0 15px 40px rgba(0,0,0,0.35);" />
 </a>
 
@@ -58,12 +62,20 @@ Next.js · React · TypeScript · WebSocket · NextAuth
 </tr>
 </table>
 
+</td>
+</tr>
+</table>
+
 <br><br>
 
 <!-- Project 2 -->
-<table align="center">
+<table width="100%" align="center">
 <tr>
-<td align="center" valign="top" width="100%">
+<td align="center">
+
+<table width="80%" align="center">
+<tr>
+<td align="center" valign="top">
 
 <a href="https://github.com/GoodSpace-Kr/Runners-Hi-FrontEnd" target="_blank">
   <img src="./RunnersHiLogo.png"
@@ -85,6 +97,11 @@ React Native · TypeScript
 </td>
 </tr>
 </table>
+
+</td>
+</tr>
+</table>
+
 
 
 ---
