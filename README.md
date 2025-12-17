@@ -44,13 +44,7 @@
 
 <br>
 
-## 📫 Contact 📫
 
-<br>
-
-
-
-<br>
 
 ## 📊 GitHub Stats 📊
 
