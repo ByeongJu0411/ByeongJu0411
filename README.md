@@ -70,13 +70,8 @@ https://github-readme-stats.vercel.app/api?username=ByeongJu0411&show_icons=true
 ](
 https://streak-stats.demolab.com/?user=ByeongJu0411&theme=radical&hide_border=true
 )
-](https://git.io/streak-stats)
+]
 [
-![Top Langs
-](
-https://github-readme-stats.vercel.app/api/top-langs/?username=ByeongJu0411&layout=compact&theme=radical&hide_border=true
-)
-](https://github.com/ByeongJu0411)
 
 <br>
 
