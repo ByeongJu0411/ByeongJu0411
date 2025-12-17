@@ -38,7 +38,7 @@
 <td width="50%" valign="top">
 
 <a href="https://github.com/GoodSpace-Kr/Teaming-FrontEnd" target="_blank">
-  <img src="https://raw.githubusercontent.com/ByeongJu0411/assets/main/teaming-card.png"
+  <img src="./Teaming_Logo.jpg"
        width="100%"
        style="border-radius:16px; box-shadow:0 15px 40px rgba(0,0,0,0.35);" />
 </a>
@@ -67,7 +67,7 @@
 <td width="50%" valign="top">
 
 <a href="https://github.com/GoodSpace-Kr/Runners-Hi-FrontEnd" target="_blank">
-  <img src="https://raw.githubusercontent.com/ByeongJu0411/assets/main/runnershi-card.png"
+  <img src="./RunnersHiLogo.png"
        width="100%"
        style="border-radius:16px; box-shadow:0 15px 40px rgba(0,0,0,0.35);" />
 </a>
