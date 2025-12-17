@@ -33,7 +33,7 @@
 ## 💼 Projects 💼
 
 <!-- Project 1 -->
-<table width="50%" align="center">
+<table width="80%" align="center">
 <tr>
 <td align="center">
 
