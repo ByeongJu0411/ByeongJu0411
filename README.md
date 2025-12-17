@@ -1,7 +1,6 @@
 <div align="center">
 
-# Welcome to
-# 병주's Github 🚀
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20ByeongJu's%20Github&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20CS%20Student&descAlignY=52&descAlign=50)
 
 <br>
 
@@ -15,11 +14,10 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white)
 ![Styled-Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-
-<br>
 
 ## 🛠 Tools 🛠
 
@@ -28,7 +26,6 @@
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
-
 
 <br>
 
@@ -42,12 +39,18 @@
 실시간 채팅, 과제 관리, 결제 시스템을 갖춘 팀 프로젝트 협업 플랫폼
 
 ### 🏃 RunnersHi - RPG 러닝 앱
-> React | TypeScript | Gamification
+> React Native | TypeScript | Gamification
 
 러닝을 RPG 게임처럼 즐길 수 있는 커뮤니티 앱
 
 <br>
 
+## 📫 Contact 📫
+
+<br>
+
+
+<br>
 
 ## 📊 GitHub Stats 📊
 
