@@ -33,59 +33,59 @@
 ## 💼 Projects 💼
 
 <!-- Project 1 -->
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td align="center" valign="top" width="100%">
 
 <a href="https://github.com/GoodSpace-Kr/Teaming-FrontEnd" target="_blank">
   <img src="./TeamingLogo.jpg"
-       width="100%"
+       width="80%"
        style="border-radius:16px; box-shadow:0 15px 40px rgba(0,0,0,0.35);" />
 </a>
+
+<br><br>
 
 ### 🎯 **Teaming**
 > 팀 협업 플랫폼
 
-**Tech**
-- Next.js · React · TypeScript  
-- WebSocket · NextAuth  
+**Tech**  
+Next.js · React · TypeScript · WebSocket · NextAuth  
 
-**Features**
-- 🔴 실시간 채팅  
-- 📌 과제 & 일정 관리  
-- 💳 결제 시스템  
+**Features**  
+🔴 실시간 채팅 &nbsp;|&nbsp; 📌 과제 관리 &nbsp;|&nbsp; 💳 결제 시스템  
 
 </td>
 </tr>
 </table>
 
-<br>
+<br><br>
 
 <!-- Project 2 -->
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td align="center" valign="top" width="100%">
 
 <a href="https://github.com/GoodSpace-Kr/Runners-Hi-FrontEnd" target="_blank">
   <img src="./RunnersHiLogo.png"
-       width="100%"
+       width="80%"
        style="border-radius:16px; box-shadow:0 15px 40px rgba(0,0,0,0.35);" />
 </a>
+
+<br><br>
 
 ### 🏃 **RunnersHi**
 > RPG 러닝 커뮤니티 앱
 
-**Tech**
-- React Native · TypeScript  
+**Tech**  
+React Native · TypeScript  
 
-**Features**
-- 🎮 RPG 성장 시스템  
-- 🏆 러닝 미션 & 보상  
-- 👥 커뮤니티 기능  
+**Features**  
+🎮 RPG 성장 시스템 &nbsp;|&nbsp; 🏆 러닝 미션 &nbsp;|&nbsp; 👥 커뮤니티  
 
 </td>
 </tr>
 </table>
+
 
 ---
 
