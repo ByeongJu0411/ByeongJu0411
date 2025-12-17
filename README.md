@@ -76,6 +76,5 @@ https://streak-stats.demolab.com/?user=ByeongJu0411&theme=tokyonight&hide_border
 
 <br>
 
-[![Hits](https://hits.seeyoufree.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FByeongJu0411&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufree.com)
 
 </div>
