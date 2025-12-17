@@ -74,7 +74,7 @@ const byungjoo = {
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByeongJu0411&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ByeongJu0411&theme=tokyonight&hide_border=true&background=0D1117)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=ByeongJu0411&theme=tokyonight&hide_border=true&background=0D1117)
 
 </div>
 
