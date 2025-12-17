@@ -37,7 +37,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/ByeongJu0411/Teaming" target="_blank">
+<a href="https://github.com/GoodSpace-Kr/Teaming-FrontEnd" target="_blank">
   <img src="https://raw.githubusercontent.com/ByeongJu0411/assets/main/teaming-card.png"
        width="100%"
        style="border-radius:16px; box-shadow:0 15px 40px rgba(0,0,0,0.35);" />
@@ -66,7 +66,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/ByeongJu0411/RunnersHi" target="_blank">
+<a href="https://github.com/GoodSpace-Kr/Runners-Hi-FrontEnd" target="_blank">
   <img src="https://raw.githubusercontent.com/ByeongJu0411/assets/main/runnershi-card.png"
        width="100%"
        style="border-radius:16px; box-shadow:0 15px 40px rgba(0,0,0,0.35);" />
@@ -105,17 +105,6 @@
 <br>
 
 <img src="https://streak-stats.demolab.com/?user=ByeongJu0411&theme=tokyonight&hide_border=true&background=0D1117" />
-
----
-
-<!-- ================= SNAKE ================= -->
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/ByeongJu0411/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/ByeongJu0411/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
