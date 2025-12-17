@@ -56,7 +56,13 @@
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ByeongJu0411&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true)
+
+[
+![GitHub Stats
+](
+https://github-readme-stats.vercel.app/api?username=ByeongJu0411&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true
+)
+](https://github.com/ByeongJu0411)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ByeongJu0411&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
