@@ -18,7 +18,6 @@
 const byungjoo = {
   role: "Frontend Developer & CS Student",
   currentFocus: ["Next.js", "React", "TypeScript"],
-  learning: ["System Design", "Network Programming", "Japanese 🇯🇵"],
   projects: {
     current: "Teaming - 팀 협업 플랫폼",
     recent: "RunnersHi - RPG 스타일 러닝 앱"
@@ -89,17 +88,6 @@ const byungjoo = {
 
 ---
 
-## 📫 Contact
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wjsqudwn981789@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://yourblog.com)
-
-</div>
-
----
 
 <div align="center">
 
