@@ -68,10 +68,9 @@ https://github-readme-stats.vercel.app/api?username=ByeongJu0411&show_icons=true
 [
 ![GitHub Streak
 ](
-https://streak-stats.demolab.com/?user=ByeongJu0411&theme=radical&hide_border=true
+https://streak-stats.demolab.com/?user=ByeongJu0411&theme=tokyonight&hide_border=true&background=0D1117
 )
-]
-[
+](https://git.io/streak-stats)
 
 <br>
 
