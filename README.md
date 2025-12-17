@@ -38,7 +38,7 @@
 <td width="50%" valign="top">
 
 <a href="https://github.com/GoodSpace-Kr/Teaming-FrontEnd" target="_blank">
-  <img src="./Teaming_Logo.jpg"
+  <img src="./TeamingLogo.jpg"
        width="100%"
        style="border-radius:16px; box-shadow:0 15px 40px rgba(0,0,0,0.35);" />
 </a>
