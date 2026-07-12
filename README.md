@@ -29,28 +29,6 @@
 
 ---
 
-
-
-
-<!-- ================= GITHUB STATS ================= -->
-## 📊 GitHub Stats 📊
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ByeongJu0411&theme=github_dark&show_icons=true&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ByeongJu0411&theme=default&show_icons=true&hide_border=true"
-  />
-</picture>
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=ByeongJu0411&theme=tokyonight&hide_border=true&background=0D1117" />
-
----
-
 ### 🌟 *"매일 조금씩, 그러나 확실하게 성장하는 개발자"* 🌟
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
