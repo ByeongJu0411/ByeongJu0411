@@ -3,8 +3,6 @@
 <!-- ================= HEADER ================= -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=ByeongJu's%20GitHub&fontSize=52&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20CS%20Student&descAlignY=55" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Frontend+Developer;React+%2F+Next.js+Lover;Always+Learning+%F0%9F%9A%80" />
-
 <br><br>
 
 ---
